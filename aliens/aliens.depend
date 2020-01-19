@@ -1,0 +1,335 @@
+# depslib dependency file v1.0
+1527276170 source:p:\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1527275617 p:\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+
+1527276565 source:p:\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1527183916 source:p:\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1527274576 source:p:\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1527101526 source:p:\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1527186904 source:p:\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1527274210 source:p:\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1527187133 source:p:\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1527481270 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1527484522 c:\users\longw_000\documents\space marines 250518\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1527448467 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1527449544 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1527449529 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1527187134 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1527449371 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1527448718 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1527485929 source:c:\users\longw_000\documents\space marines 250518\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1527621298 source:p:\space marines 280518\space marines 250518\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1527621987 p:\space marines 280518\space marines 250518\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1527620487 source:p:\space marines 280518\space marines 250518\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1527622213 source:p:\space marines 280518\space marines 250518\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1527622991 source:p:\space marines 280518\space marines 250518\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1527622628 source:p:\space marines 280518\space marines 250518\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1527620571 source:p:\space marines 280518\space marines 250518\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1527620571 source:p:\space marines 280518\space marines 250518\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1527620571 source:p:\space marines 280518\space marines 250518\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1528060140 source:c:\users\longw_000\documents\space marines\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1528082306 c:\users\longw_000\documents\space marines\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1527998665 source:c:\users\longw_000\documents\space marines\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1528081992 source:c:\users\longw_000\documents\space marines\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1528082285 source:c:\users\longw_000\documents\space marines\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1528079058 source:c:\users\longw_000\documents\space marines\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1528082020 source:c:\users\longw_000\documents\space marines\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1528075539 source:c:\users\longw_000\documents\space marines\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1528082324 source:c:\users\longw_000\documents\space marines\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1528004950 source:c:\users\longw_000\documents\space marines\space marines\aliens\bitmaps.cpp
+	"aliens.h"
+
+1527882891 source:p:\space marines 290518\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1527882916 p:\space marines 290518\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1527701296 source:p:\space marines 290518\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1527879394 source:p:\space marines 290518\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1527881851 source:p:\space marines 290518\space marines\aliens\bitmaps.cpp
+	"aliens.h"
+
+1527882808 source:p:\space marines 290518\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1527882513 source:p:\space marines 290518\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1527882269 source:p:\space marines 290518\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1527882588 source:p:\space marines 290518\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1527882556 source:p:\space marines 290518\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1528399732 source:p:\space marines\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1528399803 p:\space marines\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1528133466 source:p:\space marines\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1528399584 source:p:\space marines\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1528398415 source:p:\space marines\space marines\aliens\bitmaps.cpp
+	"aliens.h"
+
+1528134546 source:p:\space marines\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1528399106 source:p:\space marines\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1528228547 source:p:\space marines\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1528399940 source:p:\space marines\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1528225956 source:p:\space marines\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1528482320 source:d:\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1528482296 d:\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1528133466 source:d:\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1528482371 source:d:\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1528479825 source:d:\space marines\aliens\bitmaps.cpp
+	"aliens.h"
+
+1528400173 source:d:\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1528482424 source:d:\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1528481533 source:d:\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1528481763 source:d:\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1528480692 source:d:\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1529092013 source:c:\users\longw_000\documents\space marines\aliens\aliens.cpp
+	"aliens.h"
+
+1529093327 c:\users\longw_000\documents\space marines\aliens\aliens.h
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_primitives.h>
+
+1529029059 source:c:\users\longw_000\documents\space marines\aliens\aliensallegro.cpp
+	"aliens.h"
+
+1529022278 source:c:\users\longw_000\documents\space marines\aliens\ayys.cpp
+	"aliens.h"
+
+1528842656 source:c:\users\longw_000\documents\space marines\aliens\bitmaps.cpp
+	"aliens.h"
+
+1529090825 source:c:\users\longw_000\documents\space marines\aliens\fieldofview.cpp
+	"aliens.h"
+
+1529012184 source:c:\users\longw_000\documents\space marines\aliens\marines.cpp
+	"aliens.h"
+
+1529029145 source:c:\users\longw_000\documents\space marines\aliens\mathstuff.cpp
+	"aliens.h"
+
+1529022370 source:c:\users\longw_000\documents\space marines\aliens\printmap.cpp
+	"aliens.h"
+
+1529022445 source:c:\users\longw_000\documents\space marines\aliens\readmap.cpp
+	"aliens.h"
+
+1529020965 source:c:\users\longw_000\documents\space marines\aliens\allmarines.cpp
+	"aliens.h"
+

@@ -1,0 +1,111 @@
+Titanic Game Documentation
+Game Name: idk yet
+Name: Wallace Long
+
+May 15:
+-set up structs, main, project files, etc.
+-created map file format
+-started function to read in, reset map file
+
+May 16:
+-finished read map function
+
+May 17:
+-started FOV functions
+-created bitmap loading, now waiting on bitmaps
+
+May 18:
+-continue FOV functions
+-decided on resolution
+-talked with comm tech people
+
+Weekend + vicky day:
+-nothing
+
+May 22:
+-finish FOV functions
+-start printing to allegro functions
+
+May 23:
+-finish printMap function
+
+May 24:
+-create, finish shooting and determining accuracy functions
+
+May 25:
+-talk with comm tech people
+-create gamestates switch/cases
+-added more allegro functions with mouse/keyboard, started event registration
+
+Weekend:
+-added font: main_space_font.tff: raptor sans
+-fixed mouse, keyboard stuff
+
+May 28:
+-added menu navigation
+-added main allegro event related things
+
+May 29:
+-received terrain graphics
+-started testing EVERYTHING
+-ULTRA TODO: WRITE SOMETHING TO MAKE MAPS AUTOMATICALLY
+
+May 30:
+-printing maps worked out
+-improved main menu
+-bug fixing maps stuff
+
+May 31:
+-test today, nothing
+
+June 1:
+-received icon and bullet graphics
+-implemented icons
+
+Weekend:
+-received marine graphics
+-added keyboard inputs to the main game
+
+June 4:
+-recieved remaining marine graphics, implemented
+
+June 5:
+-started implementing an animation for the bullets
+
+June 6:
+-received alien graphics, attempted to implement, buggy
+
+June 7:
+-started on alien ai
+
+June 8:
+-implemented better menu controls, runs smoother
+-fixed a dividing by 0 bug
+
+June 9:
+-continued on alien ai
+-restructed the main to have more and better exit conditions
+-started info sidebar in the bottom right
+
+weekend:
+-added more conversions from keyboard controls to clicking
+-added more info to the sidebar
+-added bullet animation, buggy
+
+June 11:
+-fixed bullet animation
+-alien images still buggy
+
+June 12:
+-improvements to ai to be less dumb
+-attempeted to fix alien images, failed
+
+June 13:
+-completed game, played it
+-added win/lose screens
+-added rule screen
+-fixed alien image bug
+-started filling w/ more comments
+
+June 14:
+-done
